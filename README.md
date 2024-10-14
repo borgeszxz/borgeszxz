@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, welcome to my GitHub profile! 🙌
 
-<!--
-**borgeszxz/borgeszxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Technology enthusiast, focused on Web Systems, integrations with APIs and creation of intelligent Bots for various platforms.
 
-Here are some ideas to get you started:
+## 🛠 My Tech Toolbox
+| Language   | Proficiency |
+|------------|-------------|
+| JavaScript     | 🔥🔥🔥🔥🔥         |
+| Angular      | 🔥🔥🔥🔥🔥  |
+| Java      | 🔥🔥🔥  |
+| Python     | 🔥🔥🔥     |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- **Discord:** `@borgeszxz`
+
+⭐️ *Feel free to reach out, I'm always up for a chat or collaboration!*

@@ -1,4 +1,4 @@
-# Hey, welcome to my GitHub profile! 🙌
+# welcome to my GitHub profile.
 
 ## 🚀 About Me
 Technology enthusiast, focused on Web Systems, integrations with APIs and creation of intelligent Bots for various platforms.

@@ -8,6 +8,7 @@ Technology enthusiast, focused on Web Systems, integrations with APIs and creati
 |------------|-------------|
 | JavaScript     | 🔥🔥🔥🔥🔥         |
 | Angular      | 🔥🔥🔥🔥🔥  |
+| PhP     | 🔥🔥🔥🔥     |
 | Java      | 🔥🔥🔥  |
 | Python     | 🔥🔥🔥     |
 

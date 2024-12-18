@@ -11,6 +11,8 @@ Technology enthusiast, focused on Web Systems, integrations with APIs and creati
 | PhP     | 🔥🔥🔥🔥     |
 | Java      | 🔥🔥🔥  |
 | Python     | 🔥🔥🔥     |
+| C#     | 📚     |
+| ASP.net     | 📚     |
 
 ## 📫 How to reach me:
 - **Discord:** `@borgeszxz`

@@ -15,6 +15,6 @@ Technology enthusiast, focused on Web Systems, integrations with APIs and creati
 | ASP.net     | 📚     |
 
 ## 📫 How to reach me:
-- **Discord:** `@borgeszxz`
+- **Discord:** `@lostechoesofshatteredtime`
 
 ⭐️ *Feel free to reach out, I'm always up for a chat or collaboration!*

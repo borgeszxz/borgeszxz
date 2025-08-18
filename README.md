@@ -46,6 +46,7 @@
 ## 🌟 Featured Projects
 
 - 📊 [DeepSaas](https://github.com/borgeszxz/DeepSaas) – Modern SaaS Landing Page
+- ♻️ [EcoUnama](https://github.com/borgeszxz/EcoUnama) - Academy Project
 - 🤖 [Api Translator](https://github.com/borgeszxz/translation_api) – Api translator in Python
 - 🌎 [GeoSniper](https://github.com/borgeszxz/GeoSniper/) – Chrome Extension for GeoGuessr
 

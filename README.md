@@ -1,77 +1,40 @@
-<h1 align="center">Welcome 👋 I'm Borges</h1>
-<p align="center">💻 Full Stack Developer | 🤖 Automation Enthusiast | 🌐 Web & API Integrator</p>
 
 ---
 
-## 🚀 About Me
+<!--  <a href="#"><img align="left" src="" width="18%"/></a> ... -->
 
-- 👨‍💻 Tech enthusiast passionate about web development and automation.
-- 🔌 Experienced in API integrations and bot creation for Discord, Roblox, and more.
-- 🧠 Always learning and experimenting with new technologies.
-- 🎯 Focused on clean code, performance, and impactful solutions.
+```lua
+borgeszxz@GitHub
+▔▔▔▔▔▔▔▔▔
+OS: Windows 10 x64 & Arch Linux
+Location: Brasil (BRT)
+Stack atual: PHP • MySQL • Angular • JS 
+```
 
----
-
-## 🛠️ My Tech Toolbox
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" />
-
-
-
-
-</p>
-
-🔸 **Proficiency**  
-- PHP
-- JavaScript & Angular  
-- Lua, Java, Python , Spring
-- C#: 📚 (Currently learning)
+<br clear="left" />
 
 ---
 
-## 🌟 Featured Projects
-
-- 📊 [DeepSaas](https://github.com/borgeszxz/DeepSaas) – Modern SaaS Landing Page
-- ♻️ [EcoUnama](https://github.com/borgeszxz/EcoUnama) - Academy Project
-- 🤖 [Api Translator](https://github.com/borgeszxz/translation_api) – Api translator in Python
-- 🌎 [GeoSniper](https://github.com/borgeszxz/GeoSniper/) – Chrome Extension for GeoGuessr
-
----
-
-## 📊 GitHub Stats
+### 🧰 Tech Stack
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=borgeszxz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgeszxz&layout=compact&theme=dracula"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,angular,tailwind,bootstrap,sqlite,mysql,postgres,git,github,linux,arch"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+### 📊 GitHub Status
 
-- 💬 **Discord**: `@ywkv`
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgeszxz&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=8&card_width=1048"/></a>
+</p>
+
 ---
 
-⭐️ *Feel free to reach out — I'm always open to new ideas, collaborations, or just a good tech chat!*
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=borgeszxz&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---

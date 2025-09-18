@@ -23,14 +23,6 @@ Stack atual: PHP • MySQL • Angular • JS
 
 ---
 
-### 📊 GitHub Status
-
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgeszxz&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=8&card_width=1048"/></a>
-</p>
-
----
-
 ### 🏆 Trophies
 
 <p align="center">

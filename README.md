@@ -8,7 +8,7 @@ borgeszxz@GitHub
 ▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64 & Arch Linux
 Location: Brasil (BRT)
-Stack atual: PHP • MySQL • Angular • JS 
+Stack atual: PHP • MySQL • Angular • JS • Vue
 ```
 
 <br clear="left" />

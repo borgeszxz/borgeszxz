@@ -18,7 +18,7 @@ Stack atual: PHP • MySQL • Angular • JS • Vue
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,angular,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github,linux,arch"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github,linux,arch"/>
 </p>
 
 ---

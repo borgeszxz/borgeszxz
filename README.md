@@ -21,4 +21,5 @@ Stack atual: PHP • MySQL • Angular • JS • Vue
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github,linux,arch"/>
 </p>
 
+for contact @brocolis.dev (Discord)
 ---

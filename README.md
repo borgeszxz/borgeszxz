@@ -6,9 +6,7 @@
 ```lua
 borgeszxz@GitHub
 ▔▔▔▔▔▔▔▔▔
-OS: Windows 10 x64 & Arch Linux
 Location: Brasil (BRT)
-Stack atual: PHP • MySQL • Angular • JS • Vue
 ```
 
 <br clear="left" />
@@ -18,7 +16,7 @@ Stack atual: PHP • MySQL • Angular • JS • Vue
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github,linux,arch"/>
+  <img src="https://skillicons.dev/icons?i=ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github"/>
 </p>
 
 for contact @brocolis.dev (Discord)

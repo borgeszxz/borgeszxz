@@ -19,5 +19,5 @@ Location: Brasil (BRT)
   <img src="https://skillicons.dev/icons?i=ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github"/>
 </p>
 
-for contact @bgzxz (Discord)
+for contact @brocolis.dev (Discord)
 ---

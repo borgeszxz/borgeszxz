@@ -1,23 +1,25 @@
+<div align="center">
 
----
-
-<!--  <a href="#"><img align="left" src="" width="18%"/></a> ... -->
-
-```lua
-borgeszxz@GitHub
-▔▔▔▔▔▔▔▔▔
-Location: Brasil (BRT)
+```
+╔══════════════════════════════════════╗
+║         borgeszxz @ GitHub           ║
+║  ────────────────────────────────    ║
+║  Location : Brasil (BRT)             ║
+║  Website  : https://brocolis.dev/    ║
+║  Contact  : @brocolis.dev (Discord)  ║
+╚══════════════════════════════════════╝
 ```
 
-<br clear="left" />
+</div>
 
 ---
+
+<div align="center">
 
 ### 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github"/>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,php,laravel,angular,vue,lua,tailwind,bootstrap,sqlite,mysql,postgres,git,github"/>
 
-for contact @brocolis.dev (Discord)
+</div>
+
 ---
